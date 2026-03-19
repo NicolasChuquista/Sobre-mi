@@ -1,5 +1,5 @@
 <h1 align="center">Soy Nicolas Chuquista Rivadeneira</h1>
-
+---
 <p align="center">
   <img width="200" src="https://github.com/user-attachments/assets/652c0dc2-ae05-49ab-9ccc-b1ccaba1e161" style="border-radius: 50%;">
 </p>
